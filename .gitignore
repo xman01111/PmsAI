@@ -1,0 +1,24 @@
+# .NET
+**/bin/
+**/obj/
+*.user
+*.suo
+.vs/
+.vscode/
+*.swp
+
+# Logs
+logs/
+*.log
+
+# Publish
+publish/
+out/
+
+# NuGet
+*.nupkg
+.nuget/
+
+# OS
+.DS_Store
+Thumbs.db
