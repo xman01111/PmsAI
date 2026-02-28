@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PmsAI.Api/PmsAI.Api.csproj" />
+    <Project Path="src/PmsAI.Contracts/PmsAI.Contracts.csproj" />
+  </Folder>
+</Solution>
